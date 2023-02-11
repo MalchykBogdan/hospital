@@ -1,0 +1,609 @@
+@media screen and (max-width:1200px) {
+    .container,.container-two,.container-three,.container-four,.container-five,.container-last, .container-first {
+        width: 960px;
+    }
+    /*start three screen*/
+    header {
+        width: 960px;
+        margin: 0 auto;
+    }
+    .block1 {
+        width: 1100px;
+        margin: 0 auto;
+    }
+    .block1 h1 {
+        font-size: 46px;
+    }
+    .block1 p {
+        font-size: 18px;
+    }
+    .wommen img {
+        width: 450px;
+        height: 450px;
+    }
+    .people {
+        width: 220px;
+        height: 270px;
+    }
+    .box2 img {
+        width: 600px;
+        height: 650px;
+
+    }
+    .box1-2-1 {
+        width: 170px;
+    }
+    .box1-2-1 p {
+        width: 110px;
+        font-size: 16px;
+        padding-bottom: 4px;
+    }
+    .box1-2-1 .text1-1{
+        width: 160px;
+        font-size: 15px;
+        padding-bottom: 8px;
+    }
+    .family1 .one1,.two2 {
+        width: 470px;
+        height: 260px;
+    }
+    .john2 {
+        width: 456.57px;
+    }   
+    .john1 {
+        width: 469.57px;
+    }
+    .stars {
+        padding-left:155px;
+        padding-top: 15px;
+        padding-bottom: 21px;
+    }
+    .stars1 {
+        padding-left:155px;
+        padding-top: 15px;
+        padding-bottom: 21px;
+    }
+    .strings p {
+        width: 308px;
+    }
+}
+@media screen and (max-width:992px){
+    .container,.container-two,.container-three,.container-four,.container-five,.container-last, .container-first{
+        width: 720px;
+        margin: 0 auto;
+    }
+    .block1 {
+        width: 720px;
+    }
+    .header {
+        width: 720px;
+        margin: 0 auto;
+    }
+    header {
+        width: 720px;
+        margin: 0 auto;
+    }
+    .title h1 {
+        font-size: 18px;
+    }
+    nav a, li {
+        width: 220px;
+        padding: 17.5px 0;
+        font-size: 14px;
+    }
+    .block1 {
+        width: 720px; 
+        margin: 0 40px;
+    }
+    .first-screen {
+        width: 720px;
+        margin: 0 auto;
+    }   
+    .btn {
+        padding: 13.5px 50px;
+        font-size: 16px;
+        height: 50px;
+    }
+    .block1 h1 {
+        font-size: 30px;
+        width: 337px;
+    }
+    .block1 p {
+        font-size: 12px;
+        width: 337px;
+    }
+    .block1 a {
+        padding: 9px 40px;
+    }
+    .box2 img {
+        width: 385px;
+        height: 428px;
+    }
+    .box1 {
+        width: 420px;
+        padding-top: 150px;
+    }
+    .title {
+        width: 650px;
+    }
+    .two-screen h3{
+        font-size: 32px;
+        width: 510px;
+    }
+    .box1-1 {
+        width: 230px;
+        height: 200px;
+    }
+    .box1-1 img {
+            left: 65px;
+            top: -70px;
+    }
+    .wommen img {
+        width: 370px;
+        height: 370px;
+    }
+    .txt h6{
+        font-size: 18px;
+        padding-top: 120px;
+    }
+    .txt h3 {
+        font-size: 30px;
+    }
+    .txt p{
+        width: 400px;
+        font-size: 14px;
+    }
+    .txt a {
+        padding: 11px 50px;
+        font-size: 14px;
+    }
+    .four-screen h6 {
+        font-size: 18px;
+    }
+    .four-screen h3 {
+        font-size: 34px;
+        width: 500px;
+    }
+    .people {
+        width: 170px;
+        height: 210px;
+    }
+    .box1-2-1 {
+        width: 130px;
+    }
+    .box1-2-1 p {
+        width: 110px;
+        font-size: 13px;
+        padding-bottom: 4px;
+    }
+    .box1-2-1 .text1-2 {
+        font-size: 12px;
+    }
+    .box1-2-1 .text1-1{
+        width: 120px;
+        font-size: 12px;
+        padding-bottom: 8px;
+        padding-top: 4px;
+    }
+    .social {
+        padding-bottom: 6px;
+    }
+    .five-screen h3 {
+        font-size: 34px;
+        width: 500px;
+    }
+    .family1 .one1,.two2 {
+        width: 350px;
+        height: 200px;
+    }
+    .john2 {
+        width: 340.57px;
+    }   
+    .john1 {
+        width: 350.57px;
+    }
+    .stars {
+        padding-left:95px;
+        padding-top: 8px;
+        padding-bottom: 4px;
+    }
+    .stars1 {
+        padding-left:95px;
+        padding-top: 8px;
+        padding-bottom: 4px;
+    }
+    .john1 h2 {
+        font-size: 16px;
+    }
+    .john2 h2{
+        font-size: 16px;
+    }
+    .john1 p,.john2 p{
+        font-size: 14px;
+        width: 300px;
+    }
+    .first h3{
+        width: 503px;
+        font-size: 30px;
+    }
+    .first p {
+        font-size: 16px;        
+    }
+    .first a{
+        font-size: 16px;
+        padding: 11px 53px;       
+    }
+    .strings p{
+        font-size: 12px;  
+        width: 250px; 
+        padding-top: 22px;
+padding-bottom: 36px;
+    }
+    .web img {
+        width: 12px;
+    height: 12px; 
+    }
+    .web {
+        width: 26px;
+        height: 26px;
+    }
+    .icon1 {
+        width: 232px;
+    }
+    .menu h6{
+        font-size: 18px;
+        text-align: center;
+        letter-spacing: 0.05em;
+        color: #000000;
+    }
+    .menu a {
+    font-size: 16px;
+    }
+    .menu ul {
+        padding-left: 25px;
+    }
+    .sub h6{
+    font-size: 18px;
+    padding-top: 87px;
+    }
+    .sub input {
+        width: 286px;
+    height: 44px;
+    font-size: 14px;
+    padding-left: 28px;
+    }
+    .sub a {
+    font-size: 16px;
+    padding: 11px 33px;
+    }
+}    
+@media screen and (max-width:768px){
+    .container,.container-two,.container-three,.container-four,.container-five,.container-last, .container-first{
+        width: 540px;
+    }
+    header {
+        width: 540px;
+        margin: 0;
+    }
+    .title {
+        width: 540px;
+    }
+    nav a, li {
+        width: 60px;
+        padding: 17.5px 0;
+        font-size: 16px;
+    }
+    .btn {
+        margin-top: 10px;
+        padding: 7.5px 30px;
+        height: 40px;
+    }
+    .block1 h1 {
+        font-size: 30px;
+        width: 400px;
+    }
+    .block1 {
+        width: 540px;
+        margin: 0 auto;
+    }
+    .box1 {
+        width: 300px;
+        padding-top: 50px;
+    }
+    .block1 p {
+        font-size: 14px;
+        width: 360px;
+    }
+    .block1 a {
+        padding: 11px 50px;
+        margin: 0 auto;
+    }
+    .box2 img {
+        display: none;
+    }
+    .two-screen {
+        height: 500px;
+    }
+    .two-screen h3{
+        font-size: 30px;
+        width: 410px;
+    }
+    .two-screen h6 {
+        font-size: 18px;
+        padding-top: 27px;
+    }
+    .box1-1 {
+        width: 160px;
+        height: 160px;
+    }
+    .blocks {
+        padding: 60px 0;
+    }
+    .box1-1 img {
+        width: 70px;
+        height: 60px;
+        left: 48px;
+        top: -40px;
+    }
+    .box1-1 h5 {
+        text-align: center;
+        padding-top: 45px;
+    }
+    .box1-1 p {
+        width: 100px;
+        font-size: 12px;
+    }
+    .txt {
+       position: relative;
+       right: 180px;
+    }
+    .txt a {
+        position: relative;
+        left: 170px;
+        padding: 13px 40px;
+    }
+    .txt p{
+        color: #333;
+        font-weight: 600;
+        font-size: 12px;
+        width: 350px;
+    }
+    .wommen img {
+        width: 340px;
+        height: 340px;
+    }
+    .txt h6{
+        padding-top: 97px;
+        font-size: 14px;
+    }
+    .img{
+        flex-wrap: wrap;
+    }
+    .four-screen h6 {
+        padding-top: 50px;
+    }
+    .four-screen h3 {
+        font-size: 28px;
+        width: 400px;
+    }
+    .family1 .one1,.two2{
+        width: 260px;
+        height: 160px;
+    }
+    .john2 {
+        width: 252.57px;
+    }   
+    .john1 {
+        width: 259.57px;
+    }
+    .john1 p,.john2 p{
+        font-size: 12px;
+        width: 200px;
+    }
+    .john1 h2,.john2 h2 {
+        font-size: 14px;
+    }
+    .stars {
+        padding-left:55px;
+        padding-top: 5px;
+    }
+    .stars1 {
+        padding-left:50px;
+        padding-top: 5px;
+    }
+    .strings p {
+        width: 208px;
+        font-size: 10px;
+    }
+    .five-screen h6 {
+        font-weight: 600;
+        font-size: 16px;
+        color: #333333;
+        padding-top: 40px;
+    }
+    .five-screen h3 {
+        padding-top: 20px;
+        width: 430px;
+        font-weight: 600;
+        font-size: 28px;
+        color: #333333;
+    }
+    .family {
+        padding-top: 55px;
+        padding-bottom: 64px;
+    }
+    .first h3{
+        font-size: 28px;
+        padding-top: 64px;
+    }
+    .first p {
+        font-size: 14px;  
+    }
+    .first a{
+        font-size: 12px;
+        padding: 9px 53px;
+    }
+    .bottom {
+        padding-bottom: 45px;
+    }
+    .menu h6 {
+        text-align: center;
+        font-size: 14px;
+    }
+    .menu {
+        width: 110px;
+    }
+    .menu a {
+        font-size: 12px;
+    }
+    .sub h6{
+        font-size: 14px;
+        padding-top: 87px;
+        width: 300px;
+    }
+    .sub input {
+        width: 206px;
+        height: 34px;
+        font-size: 14px;
+        padding-left: 28px;
+    }
+    .sub a {
+        font-size: 14px;
+        padding: 9px 23px;
+    }
+}
+    @media screen and (max-width:576px){
+        .container,.container-two,.container-three,.container-four,.container-five,.container-last, .container-first{
+                width: 100%;
+                padding: 0 15px;
+            }
+            header {
+                width: 400px;
+                margin: 0;
+            }
+            .header {
+                width: 100%;
+                padding: 0 15px;
+            }
+            .title {
+                width: 100%;
+                padding: 0 15px;
+            }
+            nav a, li {
+                width: 60px;
+                padding: 17.5px 0;
+                font-size: 14px;
+            }
+            ul {
+                width: 160px;
+                margin: 0 auto
+            }
+            .title h1 {
+                font-size: 14px;
+            }
+            .title {
+                width: 576px;
+            }
+            .btn {
+                font-size: 14px;
+                margin-top: 10px;
+                padding: 5.5px 30px;
+                height: 30px;
+    }
+    .block1 {
+        width: 576px;
+        margin: 0 auto;
+    }
+    .block1 h1 {
+        font-size: 20px;
+        width: 250px;
+    }
+    .block1 p {
+        font-size: 14px;
+    }
+    .block1 a {
+        font-size: 14px;
+        padding: 10px 38px;
+    }
+    .two-screen h6 {
+        font-size: 14px;
+    }
+    .two-screen h3 {
+        font-size: 20px;
+        width: 250px;
+        padding-top: 0px;
+    }
+    .wommen img {
+        width: 280px;
+        height: 280px;
+    }
+    .txt h6{
+        padding-top: 97px;
+        font-size: 14px;
+        text-align: right;
+    }
+    .txt {
+        position: relative;
+        right: 140px;
+     }
+     .txt a {
+         position: relative;
+         left: 210px;
+         top: 10px;
+         padding: 11px 30px;
+         font-size: 14px;
+     }
+     .txt p{
+         color: #333;
+         font-weight: 600;
+         font-size: 12px;
+         width: 350px;
+     }
+     .txt h3 {
+        font-size: 20px;
+        text-align: right;
+     }
+     .four-screen h6 {
+        padding-top: 50px;
+        font-size: 14px;
+    }
+    .four-screen h3 {
+        font-size: 20px;
+        width: 400px;
+    }
+    .five-screen h6 {
+        font-weight: 600;
+        font-size: 14px;
+        color: #333333;
+        padding-top: 40px;
+    }
+    .five-screen h3 {
+        padding-top: 20px;
+        width: 430px;
+        font-weight: 600;
+        font-size: 20px;
+        color: #333333;
+    }
+    .first h3{
+        font-size: 20px;
+        padding-top: 64px;
+    }
+    .first p {
+        font-size: 12px;  
+    }
+    .first a{
+        font-size: 12px;
+        padding: 9px 40px;
+    }
+    .bottom {
+        padding-bottom: 45px;
+    }
+    .sub h6{
+        font-size: 12px;
+        padding-top: 87px;
+        width: 280px;
+    }
+    .menu h6 {
+        font-size: 12px;
+    }
+}
